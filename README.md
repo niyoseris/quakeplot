@@ -20,7 +20,7 @@ To run this project, you need to have the following Python packages installed:
 
 You can install the required packages using pip:
 
-    ```bash 
+    ```
     pip install requests pandas plotly geopy
     ´´´
 
@@ -30,13 +30,13 @@ You can install the required packages using pip:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/niyoseris/deprem-3d-harita.git
+   git clone https://github.com/niyoseris/quakeplot.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd deprem-3d-harita
+   cd quakeplot
    ```
 
 3. Run the Python script to generate the 3D earthquake visualization:
