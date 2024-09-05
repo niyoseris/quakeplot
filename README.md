@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to me at [niyo.link].
+For any questions or feedback, feel free to reach out to me at https://niyo.link.
