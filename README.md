@@ -20,6 +20,9 @@ To run this project, you need to have the following Python packages installed:
 You can install the required packages using pip:
 
 
+   pip install requests pandas plotly geopy
+
+
 ## How to Run
 
 1. Clone the repository to your local machine:
